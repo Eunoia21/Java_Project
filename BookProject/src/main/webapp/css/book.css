@@ -1,0 +1,42 @@
+#wrap{
+	width:971px; 
+	margin: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h1{
+	color:#ce9ff0;
+}
+
+table{
+	width: 100%;
+	border-collapse: collapse;
+	font-size: 12px;
+	line-height: 24px;
+}
+
+table td,th{
+	border:#d3d3d3 solid 1px;
+	padding: 5px;
+}
+th{
+	background: #d6a0fa;
+}
+img{
+	width: 220px;
+	height: 300px;
+}
+a{
+	text-decoration:none;
+	color:black;
+}
+a:HOVER{
+	text-decoration:underline;
+	color:green;
+}
+
+input:HOVER{
+	color:violet;
+	background-color:#ffff80;
+}

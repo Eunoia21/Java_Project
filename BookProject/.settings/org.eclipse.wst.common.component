@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+            
+    
+    <wb-module deploy-name="BookProject">
+                        
+        
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                        
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+        <dependent-module archiveName="web-study-0102.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/web-study-0102/web-study-0102">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+                        
+        
+        <property name="java-output-path" value="/BookProject/build/classes"/>
+                
+        <property name="context-root" value="BookProject"/>
+                    
+    
+    </wb-module>
+        
+
+</project-modules>

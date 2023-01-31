@@ -1,0 +1,85 @@
+@font-face {
+    font-family: 'Pretendard-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/Project-Noonnu/noonfonts_2107@1.1/Pretendard-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Pretendard-Regular';
+}
+
+#container {
+	/* border: 1px solid black; */
+	width: 400px;
+	height: 400px;
+	margin: 100px auto 0;
+	text-align: center;
+}
+
+#container h2 {
+	margin: 0 0 100px 25px;
+	width: 400px;
+	height: 100px;
+}
+
+table #id {
+	width: 400px;
+	height: 50px;
+	padding-left: 12px;
+	margin-bottom: 10px;
+	font-size: 15px;
+}
+
+#id:focus {
+	border: 2px solid #8c8ce8;
+	outline: none;
+}
+
+table #pass {
+	width: 400px;
+	height: 50px;
+	padding-left: 12px;
+	margin-bottom: 20px;
+	font-size: 15px;
+}
+
+#pass:focus {
+	border: 2px solid #8c8ce8;
+	outline: none;
+}
+
+table #login {
+	width: 415px;
+	height: 50px;
+	font-size: 16px;
+	font-weight: bold;
+	margin: 20px;
+	background-color: white;
+	border: 1px solid #999999;
+	padding: 10px 15px;
+	cursor: pointer;
+}
+
+#login:hover {
+	background-color: #8c8ce8;
+	color: white;
+}
+
+table #join {
+	width: 415px;
+	height: 50px;
+	background-color: white;
+	color: black;
+	border: 1px solid #999999;
+	font-size: 16px;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+#join:hover {
+	background-color: #8c8ce8;
+	color: white;
+}
