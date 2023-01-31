@@ -13,7 +13,7 @@
 - Price  가격
 - Summary 줄거리
 - Grade 평점 
-- Pictureurl 이미지
+- Pictureurl 이미지( 추가 )
 
 # DB
 
