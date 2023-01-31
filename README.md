@@ -1,4 +1,4 @@
-# JSP_Project
+# Java_Project
 크롤링 프로젝트-yes24 크롤링 프로그램 
 
 # 크롤링 베이스 페이지
