@@ -13,7 +13,6 @@
 - Price  가격
 - Summary 줄거리
 - Grade 평점 
-- Pictureurl 이미지( 추가 )
 
 # DB
 
@@ -26,7 +25,6 @@ Pub  NVARCHAR2(1000),
 Price  NVARCHAR2(20),
 Summary  VARCHAR2(4000),
 Grade NVARCHAR2(50),
-Pictureurl Nvarchar2(300)
 );
 
 create sequence Yes24_sql
